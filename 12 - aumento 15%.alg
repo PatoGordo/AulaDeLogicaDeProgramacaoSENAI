@@ -5,7 +5,7 @@ var
   
 inicio
   escreva("Qual é o salário que vai receber 15% de aumento?")
-  leia(salário)
+  leia(salario)
   
   escreval()
   

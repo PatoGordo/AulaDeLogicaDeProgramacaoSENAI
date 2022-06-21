@@ -4,7 +4,7 @@ var
   reais:real
   
 inicio
-  escrava("Fale um valor em reais: ")
+  escreva("Fale um valor em reais: ")
   leia(reais)
   
   escreval()

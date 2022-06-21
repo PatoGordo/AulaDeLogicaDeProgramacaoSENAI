@@ -3,7 +3,7 @@ algoritmo "votar"
 var
   idade:real
   
-inicio:
+inicio
   escreva("Qual a idade do cidadão?")
   leia(idade)
   

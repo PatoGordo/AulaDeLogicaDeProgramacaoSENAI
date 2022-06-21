@@ -12,7 +12,7 @@ inicio
   leia(metros)
   
   km<-(metros / 1000)
-  cm<-(metros / 100)
+  cm<-(metros * 100)
   mi<-(metros / 1609)
   pes<-(metros * 3.281)
   

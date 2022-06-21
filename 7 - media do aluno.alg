@@ -1,17 +1,11 @@
 algoritmo "media_do_aluno"
 
 var
-  nome:caractere
   nota_1:real
   nota_2:real
   media:real
   
-inicio:
-  escreva("Nome do aluno: ")
-  leia(nome)
-  
-  escreval()
-
+inicio
   escreva("Nota 1: ")
   leia(nota_1)
   
@@ -24,10 +18,6 @@ inicio:
   
   media<-((nota_1 + nota_2) / 2)
   
-  se media >= 7 entao
-    escreva("O aluno ", nome, " está aprovado!")
-  senao
-    escreva("O aluno ", nome, " foi reprovado!")
-  fimse
-
+  escreva("A média entre ", nota_1, " e ", nota_2, " é igual a ", media)
+  
 fimalgoritmo

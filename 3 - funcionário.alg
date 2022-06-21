@@ -19,6 +19,6 @@ inicio
   
   escreval()
   
-  escreva("O funcionário ", nome, " tem um salário de R$", salário, " em ", mes)
+  escreva("O funcionário ", nome, " tem um salário de R$", salario, " no mês ", mes)
   
 fimalgoritmo

@@ -4,7 +4,7 @@ var
   idade:inteiro
 
 inicio
-  escreva("Qual é a idade so soldado?")
+  escreva("Qual é a idade do soldado? ")
   leia(ideia)
   
   escreval()
